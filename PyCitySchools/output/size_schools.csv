@@ -1,0 +1,4 @@
+School Size Rate Group,School Average Math Score,School Average Reading Score,% School Passing Math,% School Passing Reading,% School Passing Rate
+Small (<1000),83.82,83.92500000000001,93.55000000000001,96.1,94.82499999999999
+Medium (1000-2000),83.374,83.86800000000001,93.59799999999998,96.79,95.192
+Large (2000-5000),77.74499999999999,81.34375,69.96375,82.76625,76.3675
